@@ -1,1 +1,1 @@
-# SemantickKerenelDesktopApp
+#Semantick Kerenel
