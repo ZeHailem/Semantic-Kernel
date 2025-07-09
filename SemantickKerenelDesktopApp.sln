@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemantickKerenelDesktopApp", "SemantickKerenelDesktopApp.csproj", "{A67AD7DE-251D-4A55-99FF-158CD5596D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A67AD7DE-251D-4A55-99FF-158CD5596D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67AD7DE-251D-4A55-99FF-158CD5596D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67AD7DE-251D-4A55-99FF-158CD5596D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67AD7DE-251D-4A55-99FF-158CD5596D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6779DC8-5C26-4DCC-8C62-155E5492824B}
+	EndGlobalSection
+EndGlobal
